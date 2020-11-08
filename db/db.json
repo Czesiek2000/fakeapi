@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post One title",
+            "content": "Duis convallis justo et euismod sollicitudin. Morbi scelerisque, est in molestie rhoncus, eros urna efficitur ex, eget dignissim ex dui rutrum est."
+        },
+        {
+            "id": 2,
+            "title": "Post Two title",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar elit in tortor posuere mollis sed eget nulla. Duis eu erat placerat, faucibus felis et, ornare augue."
+        }
+    ]
+}
